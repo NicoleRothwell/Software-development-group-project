@@ -1,2 +1,2 @@
 # Software-development-group-project
-ISM honors, Computing in information systems group assignment
+ISM Honors, Computing in information systems group assignment
